@@ -15,3 +15,27 @@ Objectives
 
 -----
 
+Features
+- User Authentication (Admin and Staff roles)
+  
+- Patient Registration
+- Patient Record Management
+- Service Management
+- Staff Management
+- Staff Assignment
+- Payment and Checkout Processing
+
+
+## Project Structure
+
+```
+PAW-CARE/
+├── main.py
+├── database.py
+├── authentication.py
+├── patient.py
+├── services.py
+├── staff.py
+├── payment.py
+└── README.md
+```
