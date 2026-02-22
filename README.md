@@ -1,4 +1,4 @@
-# PAW-CARE Pet Clinic Grooming MiniApps Python CLI
+<img width="4343" height="2175" alt="diagram-export-2-22-2026-2_15_11-PM" src="https://github.com/user-attachments/assets/6e35cfb3-a00d-4603-b4dc-ac9b8bc626c9" /># PAW-CARE Pet Clinic Grooming MiniApps Python CLI
 PAW-CARE is a Command Line Interface (CLI) based pet clinic and grooming management system built using Python. The application is designed to support and streamline daily operational activities in a pet clinic and grooming business through structured data management and modular programming.
 PAW-CARE/
 
@@ -39,4 +39,6 @@ PAW-CARE/
 └── README.md
 ```
 
-## Application Workflow
+## Application Workf
+<img width="4343" height="2175" alt="diagram-export-2-22-2026-2_15_11-PM" src="https://github.com/user-attachments/assets/ce7528a2-4647-4eb1-814b-9b3cef10c332" />
+
