@@ -42,3 +42,7 @@ PAW-CARE/
 ## Application Workflow
 <img width="4343" height="2175" alt="diagram-export-2-22-2026-2_15_11-PM" src="https://github.com/user-attachments/assets/ce7528a2-4647-4eb1-814b-9b3cef10c332" />
 
+## Demo 
+- Menu Authentikasi
+<img width="552" height="184" alt="Menu Authentikasi" src="https://github.com/user-attachments/assets/720d9eb8-288c-40da-852a-25708eb56034" />
+
