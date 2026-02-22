@@ -4,7 +4,7 @@ PAW-CARE/
 
 -----
 
-Objectives
+## Objectives
 - Develop a CLI-based management system for pet clinic and grooming services
 - Manage patient registration and records
 - Organize available services and pricing
@@ -15,9 +15,8 @@ Objectives
 
 -----
 
-Features
+## Features
 - User Authentication (Admin and Staff roles)
-  
 - Patient Registration
 - Patient Record Management
 - Service Management
