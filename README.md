@@ -39,6 +39,6 @@ PAW-CARE/
 └── README.md
 ```
 
-## Application Workf
+## Application Workflow
 <img width="4343" height="2175" alt="diagram-export-2-22-2026-2_15_11-PM" src="https://github.com/user-attachments/assets/ce7528a2-4647-4eb1-814b-9b3cef10c332" />
 
