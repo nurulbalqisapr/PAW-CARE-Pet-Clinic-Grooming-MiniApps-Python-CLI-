@@ -38,3 +38,5 @@ PAW-CARE/
 ├── payment.py
 └── README.md
 ```
+
+## Application Workflow
