@@ -49,6 +49,14 @@ PAW-CARE/
 Create Account 
 <img width="701" height="698" alt="Create account" src="https://github.com/user-attachments/assets/973c7012-397b-44c2-8560-6b8ba416b68d" />
 
+
+
+
+
+
+
+
+
 - Main menu admin
 <img width="553" height="554" alt="Main Menu Admin" src="https://github.com/user-attachments/assets/30e92dc2-3272-4998-ab42-e48d11f85b45" />
 
