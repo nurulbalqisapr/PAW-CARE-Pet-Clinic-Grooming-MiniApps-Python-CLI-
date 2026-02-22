@@ -55,4 +55,20 @@ Create Account
 - Main menu admin
 <img width="553" height="554" alt="Main Menu Admin" src="https://github.com/user-attachments/assets/30e92dc2-3272-4998-ab42-e48d11f85b45" />
 
+- Main menu staff
+<img width="488" height="520" alt="Main menu staff" src="https://github.com/user-attachments/assets/db6b5179-07bc-4579-9260-e59bcd4f0eca" />
 
+- Register new patient
+<img width="590" height="946" alt="Register" src="https://github.com/user-attachments/assets/a5c44649-1ae1-47e2-aff9-fb426dc01064" />
+
+- Manage Service
+<img width="773" height="830" alt="Service" src="https://github.com/user-attachments/assets/f15de145-4d48-4e1a-9bd4-7e93e6741d9a" />
+
+- Manage Patient Record
+<img width="1037" height="674" alt="Patient Record" src="https://github.com/user-attachments/assets/0c534170-9442-42c7-9190-f131577210aa" />
+
+- Manage staff
+<img width="880" height="890" alt="Manage Staff" src="https://github.com/user-attachments/assets/aea39130-ad0b-46d4-bf81-b21be9138a3d" />
+
+- Check out and Payment
+<img width="1176" height="962" alt="payment" src="https://github.com/user-attachments/assets/985ac024-4887-4099-95d4-0769f36793a5" />
