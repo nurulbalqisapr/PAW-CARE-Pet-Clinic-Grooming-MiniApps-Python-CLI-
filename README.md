@@ -72,3 +72,9 @@ Create Account
 
 - Check out and Payment
 <img width="1176" height="962" alt="payment" src="https://github.com/user-attachments/assets/985ac024-4887-4099-95d4-0769f36793a5" />
+
+-----
+
+## Presentation Slides
+You can view the project presentation slides here:
+https://www.canva.com/design/DAHB79YVU5s/udWFMuOj4XGbi6hib9BqOw/edit?utm_content=DAHB79YVU5s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
