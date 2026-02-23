@@ -110,7 +110,7 @@ def add_service():
 #----------------------------------
 def update_service():
     print("\n" + "=" * 60)
-    print("UPDATE SERVICE".center(width))
+    print("UPDATE SERVICE".center(60))
     print("=" * 60)
     print()
     display_services_table()
@@ -238,7 +238,7 @@ def update_service():
 #----------------------------------
 def remove_service():
     print("\n" + "=" * 60)
-    print("REMOVE SERVICE".center(width))
+    print("REMOVE SERVICE".center(60))
     print("=" * 60)
     print()
     display_services_table()
@@ -318,3 +318,4 @@ def manage_services(user):
         print("="*width)
 
         input("Press Enter to go back...")
+
