@@ -150,8 +150,7 @@ def update_patient_staff():
     print()
     # ===== PILIH DATA PASIEN =====
     while True:
-        choice = input("Select patient number: ")
-        print("[0] Cancel")
+        choice = input("Select patient number (0 to cancel): ")
 
         if choice == "0":
             return
@@ -218,8 +217,7 @@ def update_patient_status():
     print()
     display_patient_records_table()
     while True:
-        print("[0] Cancel")
-        choice = input("Select patient number to update: ")
+        choice = input("Select patient number to update (0 to cancel): ")
 
         if choice == "0":
             return
@@ -375,3 +373,4 @@ def manage_patients(user):
             print("🔹 View Only Mode - Admin Required to Manage Patients 🔹".center(width))
             input("Press Enter to go back...")
             break
+
