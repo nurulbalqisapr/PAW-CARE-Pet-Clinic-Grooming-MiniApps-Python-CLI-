@@ -37,7 +37,7 @@ def update_patient_service():
     print("UPDATE CATEGORY AND SERVICE".center(60))
     print("=" * 60)
     print()
-    display_patient_records_table()
+
     # ===== PILIH DATA =====
     while True:
         choice = input("Select patient number to update (0 to cancel): ")
@@ -132,7 +132,6 @@ def update_patient_service():
             patient_records[idx]["category"] = new_category
             patient_records[idx]["service"] = new_service
             print("✔  Service successfully updated!\n")
-            display_patient_records_table()
             return
         elif confirm == "n":
             print("✖️  Update cancelled.")
@@ -202,7 +201,6 @@ def update_patient_staff():
                     break
 
             print(f"✔  Staff updated successfully to {selected_staff['name']}!\n")
-            display_patient_records_table()
             break
         else:
             print("✖️  Invalid selection")
@@ -215,7 +213,7 @@ def update_patient_status():
     print("UPDATE PATIENT STATUS".center(60))
     print("=" * 60)
     print()
-    display_patient_records_table()
+    
     while True:
         choice = input("Select patient number to update (0 to cancel): ")
 
@@ -264,7 +262,6 @@ def update_patient_status():
                     if s['name'] == staff_name and s['category'] == patient_category and s['service'] == patient_service:
                         s['status'] = "Available"
                         break
-            display_patient_records_table()
             break
 
         elif confirm == "n":
@@ -282,7 +279,7 @@ def remove_patient():
     print("REMOVE PATIENT RECORD".center(60))
     print("=" * 60)
     print()
-    display_patient_records_table()
+    
     while True:
         print("[0] Cancel")
         choice = input("Select patient number to remove: ")
@@ -321,7 +318,6 @@ def remove_patient():
                     s['status'] = "Available"
                     break
 
-            display_patient_records_table()
             break
 
         elif confirm == "n":
@@ -373,4 +369,5 @@ def manage_patients(user):
             print("🔹 View Only Mode - Admin Required to Manage Patients 🔹".center(width))
             input("Press Enter to go back...")
             break
+
 
