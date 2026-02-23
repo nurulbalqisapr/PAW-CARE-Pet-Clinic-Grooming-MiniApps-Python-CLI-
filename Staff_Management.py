@@ -100,7 +100,6 @@ def add_staff():
                 staff_data.insert(insert_idx, new_staff)
 
             print(f"✔ Staff {name} added successfully!")
-            display_staff_table()
             break
         elif confirm == "n":
             print("✖️  Add staff cancelled.")
@@ -110,7 +109,6 @@ def add_staff():
 
 # ===== FUNCTION UPDATE STAFF STATUS =====
 def update_staff_status():
-    display_staff_table()
     while True:
         num = input("\nEnter staff number to update status (0 to back): ")
         if num == "0":
@@ -138,7 +136,6 @@ def update_staff_status():
                             old_status = staff['status']
                             staff['status'] = new_status
                             print(f"✔ Status updated: {old_status} → {new_status}")
-                            display_staff_table()
                             return
                         elif confirm == "n":
                             print("✖️  Update cancelled.")
@@ -153,7 +150,6 @@ def update_staff_status():
 
 # ===== FUNCTION REMOVE STAFF =====
 def remove_staff():
-    display_staff_table()
     while True:
         num = input("\nEnter staff number to remove (0 to back): ")
         if num == "0":
@@ -218,3 +214,4 @@ def manage_staff_data(user):
             print("🔹 View Only Mode - Admin Required to Manage Staff 🔹".center(width))
             input("Press Enter to go back...")
             break
+
