@@ -36,7 +36,7 @@ def display_services_table():
 #----------------------------------
 def add_service():
     print("\n" + "=" * 60)
-    print("ADD SERVICE".center(width))
+    print("ADD SERVICE".center(60))
     print("=" * 60)
     print()
     display_services_table()
@@ -316,4 +316,5 @@ def manage_services(user):
         print("\n" + "="*width)
         print("🔹 View Only - Admin Required to Manage Services 🔹".center(width))
         print("="*width)
+
         input("Press Enter to go back...")
