@@ -171,7 +171,6 @@ def remove_staff():
                 if confirm == "y":
                     staff_data.pop(idx)
                     print(f"✔ Staff removed successfully!")
-                    display_staff_table()
                     return
                 elif confirm == "n":
                     print("✖️  Removal cancelled.")
@@ -214,4 +213,5 @@ def manage_staff_data(user):
             print("🔹 View Only Mode - Admin Required to Manage Staff 🔹".center(width))
             input("Press Enter to go back...")
             break
+
 
